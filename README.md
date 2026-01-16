@@ -2,7 +2,7 @@
 
 #### I’m Luis Imperial.
 
-I’m a third-year student at De La Salle University – Dasmariñas, studying Computer Science with specialization in Intelligent Systems.
+I’m a graduating student at De La Salle University – Dasmariñas, studying Computer Science with specialization in Intelligent Systems.
 
 #### You can also find me on:
 
@@ -12,8 +12,4 @@ I’m a third-year student at De La Salle University – Dasmariñas, studying C
 
 -----
 
-![](https://social-cdn.vivaldi.net/system/accounts/headers/109/381/802/621/232/583/original/c0ef3a79ad593916.png)
-
-|Top Languages:|<img src="https://github.com/smokes/vscode-discord-assets/blob/master/tsx.png?raw=true" width="64rem" height="64rem" alt="TypeScript,"/> <img src="https://github.com/smokes/vscode-discord-assets/blob/master/python.png?raw=true" width="64rem" height="64rem" alt="Python,"/> <img src="https://github.com/smokes/vscode-discord-assets/blob/master/markdown.png?raw=true" width="64rem" height="64rem" alt="Markdown," />  <img src="https://github.com/smokes/vscode-discord-assets/blob/master/cpp.png?raw=true" width="64rem" height="64rem" alt="C++"/> <img src="https://github.com/smokes/vscode-discord-assets/blob/master/html.png?raw=true" width="64rem" height="64rem" alt="HyperText Markup Language," /> <img src="https://github.com/smokes/vscode-discord-assets/blob/master/css.png?raw=true" width="64rem" height="64rem" alt="Cascading Style Sheets,"/>|
-|:-:|:--|
-|**GitHub Stats:**|[![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisAPI)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
