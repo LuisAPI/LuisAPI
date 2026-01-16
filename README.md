@@ -12,4 +12,4 @@ I’m a graduating student at De La Salle University – Dasmariñas, studying C
 
 -----
 
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<p align="center"><img src="/github-metrics.svg" alt="Metrics"></p>
